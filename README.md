@@ -23,44 +23,44 @@ Execute the necessary commands/batch file for the desired output.
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
-![alt text](1.png)
+
 ## COMMAND AND OUTPUT
-![alt text](2.png)
+![alt text](1.png)
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-![alt text](3.png)
+![alt text](2.png)
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-![alt text](4.png)
+![alt text](3.png)
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-![alt text](5.png)
+![alt text](4.png)
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![alt text](6.png)
+![alt text](5.png)
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
-![alt text](7.png)
+![alt text](6.png)
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-![alt text](8.png)
+![alt text](7.png)
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-![alt text](9.png)
+![alt text](8.png)
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-
+![alt text](9.png)
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
